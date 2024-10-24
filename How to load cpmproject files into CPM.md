@@ -73,7 +73,3 @@
 - Ensure all mods and Minecraft versions are compatible to prevent crashes or errors.
 
 That's it! You have successfully imported a `.cpmproject` file into Minecraft: Java Edition using the Customizable Player Models mod and a mod loader of your choice. Enjoy your custom player model!
-
-
-Citation:
-OpenAI. (2024). ChatGPT [Large language model]. https://chatgpt.com
